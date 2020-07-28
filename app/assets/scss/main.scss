@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/_functions.scss";
+@import "~bootstrap/scss/_variables.scss";
+@import "~bootstrap/scss/mixins/_breakpoints.scss";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "fontawesome.min.css";
+@import '~owl.carousel/dist/assets/owl.carousel.css';
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+
+
+$color: #262828;
+
+body {
+  color: $color;
+}
+
+.fullHeight{
+  height: 100vh;
+  background: #ccc;
+  position: relative;
+}
+
+
+@import "templates/*";
+@import "components/*";
