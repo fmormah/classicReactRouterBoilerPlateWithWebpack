@@ -45,7 +45,7 @@
     "cross-env": "5.1.2",
     "i": "^0.3.6",
     "import-glob-loader": "^1.1.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.11.0",
     "node-sass-glob-importer": "^5.3.1",
     "npm": "^6.9.0",
