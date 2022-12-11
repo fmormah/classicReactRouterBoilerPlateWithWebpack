@@ -62,7 +62,7 @@
     "react-owl-carousel": "^2.3.1",
     "react-router-dom": "^4.2.2",
     "react-transition-group": "^2.5.3",
-    "request": "2.34"
+    "request": "2.88"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
